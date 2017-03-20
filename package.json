@@ -1,0 +1,11 @@
+{
+  "name": "my-js-stack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Aneesa Awaludin",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {}
+}
